@@ -1,0 +1,6 @@
+C:\Users\Aryaman Singh\Desktop\Godot_Test\Godot_Project\.mono\temp\bin\Debug\Godot_Test.dll
+C:\Users\Aryaman Singh\Desktop\Godot_Test\Godot_Project\.mono\temp\bin\Debug\Godot_Test.pdb
+C:\Users\Aryaman Singh\Desktop\Godot_Test\Godot_Project\.mono\temp\obj\Debug\Godot_Test.csprojAssemblyReference.cache
+C:\Users\Aryaman Singh\Desktop\Godot_Test\Godot_Project\.mono\temp\obj\Debug\Godot_Test.csproj.CoreCompileInputs.cache
+C:\Users\Aryaman Singh\Desktop\Godot_Test\Godot_Project\.mono\temp\obj\Debug\Godot_Test.dll
+C:\Users\Aryaman Singh\Desktop\Godot_Test\Godot_Project\.mono\temp\obj\Debug\Godot_Test.pdb
